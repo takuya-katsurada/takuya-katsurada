@@ -4,7 +4,7 @@
 - 🏢 I’m currently working on DeNA
 - 😄 Pronouns: He/Him
 
-##### Certificate
+##### Certificates
 <p>
     <a href="https://github.com/takuya-katsurada/takuya-katsurada/blob/main/images/certificates/gcp/cdl.pdf">
         <img src="./images/logos/gcp/cdl.png" alt="Cloud Digital Leader" width="30" height="30">
