@@ -5,7 +5,7 @@
 
 ##### Certificate
 <p>
-    <img src="./images/certificates/gcp/cdl.png" width="30" height="30">
-    <img src="./images/certificates/gcp/ace.png" width="30" height="30">
-    <img src="./images/certificates/gcp/pca.png" width="30" height="30">
+    <img src="./images/certificates/gcp/cdl.png" alt="Cloud Digital Leader" width="30" height="30">
+    <img src="./images/certificates/gcp/ace.png" alt="Associate Cloud Engineer" width="30" height="30">
+    <img src="./images/certificates/gcp/pca.png" alt="Professional Cloud Architect" width="30" height="30">
 </p>
