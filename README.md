@@ -6,6 +6,7 @@
 
 ## Certificates
 - Information Technology Passport Examination
+- Information Security Management Examination
 
 <p>
     <a href="https://github.com/takuya-katsurada/takuya-katsurada/blob/main/images/certificates/gcp/cdl.pdf">
