@@ -5,8 +5,10 @@
 - 😄 Pronouns: He/Him
 
 ## Certificates
-- Information Technology Passport Examination
-- Information Security Management Examination
+I've been trying to get certified recently.
+
+- ITEE: Information Technology Passport Examination
+- ITEE: Information Security Management Examination
 
 <p>
     <a href="https://github.com/takuya-katsurada/takuya-katsurada/blob/main/images/certificates/gcp/cdl.pdf">
