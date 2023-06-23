@@ -5,6 +5,7 @@
 - 😄 Pronouns: He/Him
 
 ## Certificates
+- Information Technology Passport Examination
 
 <p>
     <a href="https://github.com/takuya-katsurada/takuya-katsurada/blob/main/images/certificates/gcp/cdl.pdf">
