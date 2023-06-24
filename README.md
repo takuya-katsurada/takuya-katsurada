@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m [@takuya-katsurada](https://github.com/takuya-katsurada)
 - 🏢 I’m currently working on DeNA
+- 🌱 I’m currently learning `Data Structures` and `Algorithms` on [leetcode](https://leetcode.com/takuya-katsurada/)
 - 😄 Pronouns: He/Him
 
 ## Certificates
