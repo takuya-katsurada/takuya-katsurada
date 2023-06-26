@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning `Data Structures` and `Algorithms` on [leetcode](https://leetcode.com/takuya-katsurada/)
 - 😄 Pronouns: He/Him
 
+## Work Experience
+- Senior Software Engineer & Engineering Manager (DeNA)
+- Software Engineer (Drecom - 2 years)
+- Software Engineer (Silicon Studio - 2 years)
+
 ## Certificates
 I've been trying to get certified recently.
 
